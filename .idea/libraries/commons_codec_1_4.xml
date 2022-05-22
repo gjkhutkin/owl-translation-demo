@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgraph.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-jdk1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/velocity-dep-1.5.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/eclipse" />
+      <root url="file://$PROJECT_DIR$/lib/jena" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/eclipse" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jena" recursive="false" />
+  </library>
+</component>
